@@ -1,0 +1,15 @@
+{
+  "name": "atm-server",
+  "version": "1.0.0",
+  "description": "at-the-moment nodejs server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikram Nagarkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.4",
+    "socket.io": "^1.2.1"
+  }
+}
